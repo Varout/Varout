@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on upskilling.<br />
+🔭 I’m currently working on upskilling in various areas.<br />
 👯 I’m looking to collaborate on things that will help me work my brain and learn new skills utilising Salesforce, JS, or Python mainly, but I am also open to learning new things.<br />
 🤝 I’m looking for help with: Upskilling in LWC, JS, and/or Python.<br />
 🌱 I’m currently learning: German, React, and TypeScript. A Python refresh is next.<br />
